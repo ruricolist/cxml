@@ -1,3 +1,6 @@
+(This fork is deprecated and will receive no further updates; please
+use [FXML][] instead.)
+
 This is a fork of CXML, an XML parser written in Common Lisp. Its
 interface is a superset of CXML’s, so refer to the
 [CXML documentation][cxml] for usage.
@@ -137,3 +140,4 @@ you can do it in one pass:
 [CXML]: http://common-lisp.net/project/cxml/
 [defusedxml]: https://pypi.python.org/pypi/defusedxml
 [billion laughs]: https://en.wikipedia.org/wiki/Billion_laughs
+[FXML]:https://github.com/TBRSS/FXML
